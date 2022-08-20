@@ -1,4 +1,4 @@
-import smtplib
+
 
 from iss import iss_data
 
@@ -8,7 +8,7 @@ from datetime import datetime
 
 import time
 
-import smtpd
+import smtplib
 
 My_EMAIL = "michealbundor9@gmail.com"
 MY_PASSWORD = "LYDIAsesay123"
